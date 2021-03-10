@@ -1,0 +1,5 @@
+username,password,topic,channels,permissions
+"kk","827ccb0eea8a706c4c34a16891f84e7b","^test$",";^test.*;^kk$","subscribe;publish"
+"kk","827ccb0eea8a706c4c34a16891f84e7b","^kktest$",";^test.*;^kk$","subscribe;publish"
+"kk2","827ccb0eea8a706c4c34a16891f84e7b","^kktest$",";^kk$","subscribe;publish"
+"kk2","827ccb0eea8a706c4c34a16891f84e7b","^test$",";^test$","subscribe;publish"
